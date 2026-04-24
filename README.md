@@ -1,28 +1,48 @@
-# Client Management System
+# CAPATUR - Client Management System
 
-Web application built with ASP.NET Core and SQL Server to manage clients and user authentication.
+Sistema web desarrollado para CAPATUR (Cámara de Prestadores de Servicios de Alojamientos Turísticos) para la gestión de clientes y digitalización de procesos administrativos.
 
 ## Tech Stack
-- C#
-- ASP.NET Core MVC
-- Entity Framework
-- SQL Server
-- Identity
+
+* C#
+* ASP.NET Core MVC
+* Entity Framework Core
+* SQL Server
+* ASP.NET Identity
 
 ## Features
-- User registration and login
-- Full CRUD for clients
-- Database persistence
-- Structured MVC architecture
+
+* Registro e inicio de sesión de usuarios
+* Gestión completa de clientes (CRUD)
+* Persistencia de datos en base de datos relacional
+* Arquitectura basada en patrón MVC
 
 ## Real Use Case
-Built for real-world usage to manage client data and replace manual processes.
+
+Aplicación desarrollada para un caso real, permitiendo reemplazar la gestión manual de clientes por un sistema digital centralizado.
+
+## What I Learned
+
+* Desarrollo de aplicaciones web con ASP.NET Core
+* Implementación de autenticación con Identity
+* Manejo de bases de datos con Entity Framework
+* Estructuración de aplicaciones en capas (MVC)
 
 ## Screenshots
-(Add images here)
 
-## Run locally
-1. Clone repo
-2. Configure connection string
-3. Run migrations
-4. Start project
+### Client List
+
+
+### Create Client
+
+
+### Edit Client
+
+
+
+## Run Locally
+
+1. Clonar el repositorio
+2. Configurar la cadena de conexión en `appsettings.json`
+3. Ejecutar migraciones (`Update-Database`)
+4. Ejecutar el proyecto desde Visual Studio
