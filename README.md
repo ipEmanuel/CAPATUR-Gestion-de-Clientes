@@ -29,16 +29,17 @@ Aplicación desarrollada para un caso real, permitiendo reemplazar la gestión m
 * Estructuración de aplicaciones en capas (MVC)
 
 ## Screenshots
+### Home
+![Home](images/Home.png)
 
 ### Client List
-
+![Listado](images/Listado.png)
 
 ### Create Client
-
+![Crear](images/CrearCliente.png)
 
 ### Edit Client
-
-
+![Editar](images/EditarCliente.png)
 
 ## Run Locally
 
