@@ -30,16 +30,16 @@ Aplicación desarrollada para un caso real, permitiendo reemplazar la gestión m
 
 ## Screenshots
 ### Home
-![Home](images/Home.png)
+![Home]([images/Home.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/Home.png))
 
 ### Client List
-![Listado](images/Listado.png)
+![Listado]([images/Listado.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/Listado.png))
 
 ### Create Client
-![Crear](images/CrearCliente.png)
+![Crear]([images/CrearCliente.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/CrearCliente.png))
 
 ### Edit Client
-![Editar](images/EditarCliente.png)
+![Editar]([images/EditarCliente.png](https://github.com/ipEmanuel/client-management-aspnet/blob/78e3a5aac951ab5924c01f741447c5495ebecfa4/Images/EditarCliente.png))
 
 ## Run Locally
 
